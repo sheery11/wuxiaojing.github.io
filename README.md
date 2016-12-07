@@ -17,8 +17,8 @@
 3.既然是前端开发，怎么能不懂设计<br/>
   500px里面的摄影图个人觉得特别好<br/>
   还有花瓣网的各种图，手绘就特别好看<br/>
-  <img src = "http://img.hb.aicdn.com/e6b5a0f837140922859ef5c41d04d03c00a7b942237ad-YdOvf2_fw658">
-4.下面是一些我想看但是还没看的书籍
+  <img src = "http://img.hb.aicdn.com/e6b5a0f837140922859ef5c41d04d03c00a7b942237ad-YdOvf2_fw658"><br/>
+4.下面是一些我想看但是还没看的书籍<br/>
   ·锋利的Jquery
   ·clean code
   ·javascript权威指南
