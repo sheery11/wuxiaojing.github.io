@@ -19,8 +19,8 @@
   还有花瓣网的各种图，手绘就特别好看<br/>
   <img src = "http://img.hb.aicdn.com/e6b5a0f837140922859ef5c41d04d03c00a7b942237ad-YdOvf2_fw658"><br/>
 4.下面是一些我想看但是还没看的书籍<br/>
-  ·锋利的Jquery
-  ·clean code
-  ·javascript权威指南
-  ·javascript语言精粹
+  ·锋利的Jquery<br/>
+  ·clean code<br/>
+  ·javascript权威指南<br/>
+  ·javascript语言精粹<br/>
  贴出来和大家共勉~
